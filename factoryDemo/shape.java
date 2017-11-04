@@ -1,2 +1,3 @@
 public interface shape{
-    void draw();}
+    void draw();
+}
