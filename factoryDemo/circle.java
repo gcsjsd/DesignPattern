@@ -3,4 +3,4 @@ public class circle implements shape{
     public void draw(){
         System.out.println("Inside the circle:: draw() method.");
     }
-}
+}javac 
